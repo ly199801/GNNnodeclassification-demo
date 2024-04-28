@@ -5,7 +5,7 @@ torch_geometric.data_Data_Batch_test.py
 https://blog.csdn.net/qq_41800917/article/details/120444534
 Created on Wed Jul 13 16:23:22 2022
 
-@author: mqm
+
 """
 
 import torch
